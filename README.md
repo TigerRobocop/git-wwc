@@ -252,11 +252,11 @@ Faculdade, curso, etc
 [Nome do GitHub](GitHub Link)
 ```
 
-### 3. Crie um script `Hello, World!` em Python no diretório Scripts
+### 3. Crie um script `Hello, World!` em Javascript no diretório Scripts
 Adicione um arquivo `hello_world_SEU_NOME.js` no diretório `Scripts`, siga o exemplo:
 
 ```Javascript
-// LANGUAGE: Python
+// LANGUAGE: Javascript
 // AUTHOR: Liv Souza
 // GITHUB: https://github.com/TigerRobocop
 
