@@ -1,0 +1,5 @@
+// LANGUAGE: Python
+// AUTHOR: Ilza Medeiros
+// GITHUB: https://github.com/ilzinha
+
+console.log('Hello World!');
