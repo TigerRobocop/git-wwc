@@ -12,3 +12,9 @@
 - Onde moro: Olinda, Guadalupe - PE
 - Bio: Design gráfico na Aeso.
 - GitHub: [Dhebbora](https://github.com/Dhebbora/)
+
+#### Nome: [Morgana Galamba](https://github.com/morganagalamba)
+- Onde moro: Agua-Fria, Recife - PE
+- Bio: Estudante de Engenharia da Computação e apaixonada pela cultura pernambucana
+- GitHub: [morganagalamba](https://github.com/morganagalamba)
+
