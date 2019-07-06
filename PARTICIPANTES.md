@@ -8,3 +8,8 @@
 - Bio: Engenheira de Software no CESAR e APX pela comunidade WWC
 - GitHub: [TigerRobocop](https://github.com/TigerRobocop/)
 
+#### Nome: [Morgana Galamba](https://github.com/morganagalamba)
+- Onde moro: Agua-Fria, Recife - PE
+- Bio: Estudante de Engenharia da Computação e apaixonada pela cultura pernambucana
+- GitHub: [morganagalamba](https://github.com/morganagalamba)
+
