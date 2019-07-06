@@ -11,8 +11,8 @@ Recife, Pernambuco, Brasil
 Home Officer, Designer Gráfico
 
 ### Formação
-UFPE - Graduação em Design
-UFPE - Mestrado em Design
+- UFPE - Graduação em Design
+- UFPE - Mestrado em Design
 
 ### Interesses
 - Gatos
@@ -24,4 +24,4 @@ UFPE - Mestrado em Design
 - [BeHance](https://www.behance.net/user/?username=cinmnzs) Portfolio
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+- [Git-WWC](https://github.com/cinaradaliana)
