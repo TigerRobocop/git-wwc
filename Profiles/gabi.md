@@ -1,27 +1,26 @@
 # Nome
-Meu Nome
-
+Gabrielly Albuquerque
 # Email
-meu-email@email.com
+g.padmeh@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+Olinda - PE, Brasil
 
 ### Ocupação
 Onde trabalho, nome do cargo 
 
 ### Formação
-Faculdade, curso, etc
+História - UFPE
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Cinema e Séries
+- Viajar
+- Stephen King
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [git-wwc](https://github.com/gabipadmeh/git-wwc) descrição
+- [Projeto 2](GitHub Link) abc
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[gabipadmeh](https://github.com/gabipadmeh)
