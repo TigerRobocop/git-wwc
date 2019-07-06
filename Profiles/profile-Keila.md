@@ -2,25 +2,23 @@
 Keila Viana
 
 # Email
-meu-email@email.com
+keilavg72@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+São Lourenço da Mata, PE, Brasil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+Estudo 
 
 ### Formação
-Faculdade, curso, etc
-
+Graduando em Engenharia ELetronica - ufpe
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
-
+- Festa/Dançar
+- Música
+- Filmes
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
+- [git-wwc](https://github.com/keilavg/git-wwc) descrição
 - [Projeto 2](GitHub Link) descrição
 
 ### Meu GitHub
