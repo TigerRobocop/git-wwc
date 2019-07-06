@@ -1,27 +1,28 @@
 # Nome
-Meu Nome
+Marcela Coutinho
 
 # Email
-meu-email@email.com
+marceladeacoutinho@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+Olinda, Pernambuco, Brasil.
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+Estudante, Cesar School. 
 
 ### Formação
-Faculdade, curso, etc
+Jornalismo - Unicap
+Design de Interação de Artefatos Digitais - CESAR School
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Hamburguer
+- Séries
+- Meu cachorro, Freddie
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [wwc](https://github.com/marcelacoutinho/wwc) repositório criado durante o workshop de git
+- [Projeto 2](GitHub Link) oi
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[marcelacoutinho](https://github.com/marcelacoutinho)
