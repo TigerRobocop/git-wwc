@@ -12,3 +12,4 @@
 - Onde moro: Agua-Fria, Recife - PE
 - Bio: Estudante de Engenharia da Computação e apaixonada pela cultura pernambucana
 - GitHub: [morganagalamba](https://github.com/morganagalamba)
+
