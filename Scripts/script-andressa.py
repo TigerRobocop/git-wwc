@@ -1,2 +1,6 @@
-lista = [[i] for i in range(10) if i%2==0]
-print(lista)
+#Language: Python
+#Author: Andressa Santana
+#GitHub : https://github.com/dressalsl
+
+print("Andressa Santana")
+
