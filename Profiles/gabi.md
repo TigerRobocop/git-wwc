@@ -7,8 +7,7 @@ g.padmeh@gmail.com
 Olinda - PE, Brasil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
-
+Estudante e Editora freelancer
 ### Formação
 História - UFPE
 
@@ -23,4 +22,4 @@ História - UFPE
 - [Projeto 2](GitHub Link) abc
 
 ### Meu GitHub
-[gabipadmeh](https://github.com/gabipadmeh)
+[gabipadmeh](https://github.com/gabipadmeh)qualquer texto
