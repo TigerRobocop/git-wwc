@@ -11,8 +11,8 @@ Olinda, Pernambuco
 Estágiaria em pesquisa com Machine Learning e Artificial Intelligence  
 
 ### Formação
-UFRPE, Sistema de Informações, 2º período
-IFPE, Computação Gráfica, done
+- UFRPE, Sistema de Informações, 2º período
+- IFPE, Computação Gráfica, done
 
 ### Interesses
 - Assistir série
