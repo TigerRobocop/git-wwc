@@ -1,5 +1,5 @@
 // LANGUAGE: JavaScript
-// AUTHOR: Liv Souza
-// GITHUB: https://github.com/TigerRobocop
+// AUTHOR: Cinara Menezes
+// GITHUB: https://github.com/cinaradaliana
 
-console.log('Hello World!');
+console.log('Hi there!');
