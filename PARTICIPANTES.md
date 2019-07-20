@@ -37,3 +37,8 @@
 - Onde moro: Boa Viagem, Recife - PE
 - Bio: acadêmica de ADS e APX pela comunidade WWC
 - GitHub: [Ilzinha](https://github.com/ilzinha/)
+
+#### Nome: [Elaine Cruz](https://github.com/elainecruz)
+- Onde moro: Madalena - PE
+- Bio: Granduanda de Ciência da computação na UFPE
+- GitHub: [Elaine Cruz](https://github.com/elainecruz)
