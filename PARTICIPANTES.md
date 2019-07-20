@@ -23,3 +23,8 @@
 - Bio: Estudante de Engenharia da Computação e apaixonada pela cultura pernambucana
 - GitHub: [morganagalamba](https://github.com/morganagalamba)
 
+#### Nome: [Giordana Maluzzi](https://github.com/giordana02112)
+- Onde moro: Ipsep, Recife - PE
+- Bio: Estudante de Ciência da Computação, Cesar School 
+- GitHub: [git-wwc](https://github.com/giordana02112/git-wwc)
+
