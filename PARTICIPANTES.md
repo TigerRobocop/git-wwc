@@ -27,3 +27,8 @@
 - Onde moro: São José, Recife - PE
 - Bio: Estudante de Sistemas para Internet e APX pela comunidade Women Who Code Recife
 - GitHub: [alinecbsr](https://github.com/alinecbsr)
+
+#### Nome: [Rita Anne](https://github.com/ritaanne)
+- Onde moro: Iputinga, Recife - PE
+- Bio: Engenheira Mecanica na UFERSA
+- GitHub: [ritaanne](https://github.com/ritaanne/git-wwc)
