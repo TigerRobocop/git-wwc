@@ -47,3 +47,8 @@
 - Onde moro: Iputinga, Recife - PE
 - Bio: UX Designer
 - GitHub: [Janayna Velozo](https://github.com/janaynavelozo/)
+
+#### Nome: [Cinara Menezes](https://github.com/cinaradaliana/)
+- Onde moro: Parnamirim, Recife - PE
+- Bio: Designer gráfico, mestranda pela UFPE e amante dos gatos.
+- GitHub: [Git-wwc](https://github.com/cinaradaliana/)
