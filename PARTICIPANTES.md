@@ -32,3 +32,8 @@
 - Onde moro: Iputinga, Recife - PE
 - Bio: Engenheira Mecanica na UFERSA
 - GitHub: [ritaanne](https://github.com/ritaanne/git-wwc)
+
+#### Nome: [Ilza Medeiros](https://github.com/ilzinha/)
+- Onde moro: Boa Viagem, Recife - PE
+- Bio: acadêmica de ADS e APX pela comunidade WWC
+- GitHub: [Ilzinha](https://github.com/ilzinha/)
