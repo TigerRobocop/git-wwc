@@ -1,27 +1,27 @@
 # Nome
-Meu Nome
+Giullia Braga
 
 # Email
-meu-email@email.com
+giubdam@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+Recife, Pernambuco, Brasil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+UFPE, graduanda 
 
 ### Formação
-Faculdade, curso, etc
+Ensino médio completo, IFPE (interrompida), Colégio Adventista (Curitiba-PR) 
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Tocar teclado
+- Comer coisinhas
+- Assistir TV comendo brigadeiro
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [git-wwc](https://github.com/giulliabraga/git-wwc) aprendendo a utilizar o Git e o GitHub
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[giulliamaranhao](https://github.com/giulliabraga/)
+
