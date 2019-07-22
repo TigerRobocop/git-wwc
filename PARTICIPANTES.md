@@ -63,3 +63,7 @@
 - Bio: Jornalista e Estudante de Design de Interação
 - GitHub: [MarcelaCoutinho](https://github.com/marcelacoutinho)
 
+#### Nome: [Gabi P.](https://github.com/gabipadmeh/)
+- Onde moro: Rio Doce, Olinda - PE
+- Bio: Historiadora, Cinéfila e Editora Freelancer
+- GitHub: [GabiPadmeh](https://github.com/gabipadmeh/)
