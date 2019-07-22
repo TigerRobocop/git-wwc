@@ -52,3 +52,9 @@
 - Onde moro: Parnamirim, Recife - PE
 - Bio: Designer gráfico, mestranda pela UFPE e amante dos gatos.
 - GitHub: [Git-wwc](https://github.com/cinaradaliana/)
+
+#### Nome: [Ana Cecília](https://github.com/cecivieira/)
+- Onde moro: Madalena, Recife - PE
+- Bio: Bibliotecária, estudante de programação
+- GitHub: [cecivieira](https://github.com/cecivieira/)
+
