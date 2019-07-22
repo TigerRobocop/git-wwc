@@ -97,3 +97,9 @@
 - Onde moro: Setúbal, Recife - PE
 - Bio: Estudante de Engenharia Biomédica da UFPE
 - GitHub: [giulliamaranhao](https://github.com/giulliamaranhao/)
+
+#### Nome: [Ellen Coelho](https://github.com/EllenCoe)
+- Onde moro: Ouro Preto, Olinda - PE
+- Bio: Desenvolvedora de Inovação. Apaixonada por Tecnologia <3
+- GitHub: [Ellen Coelho](https://github.com/EllenCoe)
+
