@@ -82,3 +82,8 @@
 - Onde moro: Ponte dos Carvalhos, Cabo de Santo Agostinho - PE
 - Bio: Estudante de Engenharia bimédica na UFPE
 - GitHub: [Luana Letícia](https://github.com/Luana-Leticia/)
+
+#### Nome: [Andressa Santana](https://github.com/dressalsl/)
+- Onde moro: Olinda - PE
+- Bio: Pesquisadora de IA e ML na UFRPE (estágio) e amo meus gatinhos!
+- GitHub: [dressalsl](https://github.com/dressalsl/)
