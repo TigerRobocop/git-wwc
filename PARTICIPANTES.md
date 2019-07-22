@@ -93,3 +93,7 @@
 - Bio: Bióloga, estudante de gestão ambiental e programação
 - GitHub: [RaissaMariaB](https://github.com/RaissaMariaB/)
 
+#### Nome: [Giullia Braga](https://github.com/giulliabraga/)
+- Onde moro: Setúbal, Recife - PE
+- Bio: Estudante de Engenharia Biomédica da UFPE
+- GitHub: [giulliamaranhao](https://github.com/giulliamaranhao/)
