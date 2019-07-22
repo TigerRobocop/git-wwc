@@ -58,3 +58,8 @@
 - Bio: Bibliotecária, estudante de programação
 - GitHub: [cecivieira](https://github.com/cecivieira/)
 
+#### Nome: [Marcela Coutinho](https://github.com/marcelacoutinho)
+- Onde moro: Bairro Novo, Olinda - PE
+- Bio: Jornalista e Estudante de Design de Interação
+- GitHub: [MarcelaCoutinho](https://github.com/marcelacoutinho)
+
