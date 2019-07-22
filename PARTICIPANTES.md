@@ -78,3 +78,7 @@
 - Bio: Estudante básico de HTML e CSS
 - GitHub: [Sara sales](https://github.com/saracristinas/)
 
+#### Nome: [Luana Letícia](https://github.com/Luana-Leticia/)
+- Onde moro: Ponte dos Carvalhos, Cabo de Santo Agostinho - PE
+- Bio: Estudante de Engenharia bimédica na UFPE
+- GitHub: [Luana Letícia](https://github.com/Luana-Leticia/)
