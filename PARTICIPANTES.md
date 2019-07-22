@@ -73,3 +73,8 @@
 - Bio: Historiadora, Cinéfila e Editora Freelancer
 - GitHub: [GabiPadmeh](https://github.com/gabipadmeh/)
 
+#### Nome: [Sara sales](https://github.com/saracristinas/)
+- Onde moro: Camaragibe, São lourenço da mata - PE
+- Bio: Estudante básico de HTML e CSS
+- GitHub: [Sara sales](https://github.com/saracristinas/)
+
