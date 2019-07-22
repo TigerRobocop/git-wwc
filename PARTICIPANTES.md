@@ -87,3 +87,9 @@
 - Onde moro: Olinda - PE
 - Bio: Pesquisadora de IA e ML na UFRPE (estágio) e amo meus gatinhos!
 - GitHub: [dressalsl](https://github.com/dressalsl/)
+
+#### Nome: [Raissa Maria Barata](https://github.com/RaissaMariaB/)
+- Onde moro: Recife, Boa Viagem - PE
+- Bio: Bióloga, estudante de gestão ambiental e programação
+- GitHub: [RaissaMariaB](https://github.com/RaissaMariaB/)
+
