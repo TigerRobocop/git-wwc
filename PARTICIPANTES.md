@@ -8,6 +8,11 @@
 - Bio: Estudante de Engenharia Eletronica
 - GitHub: [keilavg](https://github.com/keilavg/)
 
+#### Nome: [Dari Diniz](https://github.com/DariDiniz/)
+- Onde moro: Graças, Recife - PE
+- Bio: Graduanda em engenharia de Controle e Automacao
+- GitHub: [DariDiniz](https://github.com/DariDiniz/)
+
 #### Nome: [Dhebbora](https://github.com/Dhebbora/)
 - Onde moro: Olinda, Guadalupe - PE
 - Bio: Design gráfico na Aeso.
@@ -67,3 +72,4 @@
 - Onde moro: Rio Doce, Olinda - PE
 - Bio: Historiadora, Cinéfila e Editora Freelancer
 - GitHub: [GabiPadmeh](https://github.com/gabipadmeh/)
+
