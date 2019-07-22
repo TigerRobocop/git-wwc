@@ -24,3 +24,4 @@ Ensino médio completo, IFPE (interrompida), Colégio Adventista (Curitiba-PR)
 
 ### Meu GitHub
 [giulliamaranhao](https://github.com/giulliabraga/)
+
