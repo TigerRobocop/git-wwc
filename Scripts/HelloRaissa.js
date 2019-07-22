@@ -2,4 +2,4 @@
 // AUTHOR: Liv Souza
 // GITHUB: https://github.com/TigerRobocop
 
-console.log('XXXXX');
+console.log('Aprendendo coisas novas <3');
